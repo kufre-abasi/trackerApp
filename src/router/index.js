@@ -3,10 +3,10 @@ import Router from 'vue-router'
 
 import firebase from 'firebase'
 
-import Driver from '@/pages/Driver'
-import Signin from '@/pages/Signin'
-import SignUp from '@/pages/SignUp'
-import Admin from '@/pages/Admin'
+import Driver from '../pages/Driver'
+import Signin from '../pages/Signin'
+import SignUp from '../pages/SignUp'
+import Admin from '../pages/Admin'
 
 
 Vue.use(Router)
